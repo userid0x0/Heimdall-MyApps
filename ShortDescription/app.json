@@ -1,0 +1,10 @@
+{
+  "appid": "b89920409bdce40e08ba1023480b0546061cd578",
+  "name": "ShortDescription",
+  "website": "https://github.com/userid0x0",
+  "license": "MIT",
+  "description": "Lorem ipsum",
+  "enhanced": true,
+  "tile_background": "dark",
+  "icon": "shortdesc.png"
+}
